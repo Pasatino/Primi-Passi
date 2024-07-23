@@ -1,0 +1,24 @@
+#marginHeader{
+    margin-top: 48px;
+}
+#backgroundHeader {
+    background-image: url(https://th.bing.com/th/id/OIP.YLRgZ2i9mHrq5qz5jHJDOAHaE8?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 48px;
+    max-width: 100%;
+    height: auto;
+}
+#introduzione{
+    margin-top: 12px;
+}
+
+.Istruzioni{
+    background-image: url(/blurry_background\ \(1\).jpg);
+}
+
+.immagine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

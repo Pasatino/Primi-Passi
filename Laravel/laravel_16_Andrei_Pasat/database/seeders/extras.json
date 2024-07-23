@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Navigatore satellitare",
+        "description": "Sistema di navigazione satellitare integrato con aggiornamenti delle mappe in tempo reale.",
+        "price": 350.00
+    },
+    {
+        "title": "Sedili riscaldati",
+        "description": "Sedili anteriori e posteriori riscaldati per un maggiore comfort durante l'inverno.",
+        "price": 200.00
+    },
+    {
+        "title": "Sistema audio premium",
+        "description": "Impianto audio di alta qualità con altoparlanti extra e subwoofer.",
+        "price": 450.00
+    },
+    {
+        "title": "Tetto panoramico",
+        "description": "Tetto apribile panoramico che offre una vista mozzafiato e maggiore luminosità.",
+        "price": 1200.00
+    },
+    {
+        "title": "Cerchi in lega",
+        "description": "Set di cerchi in lega leggera per un look sportivo e performance migliori.",
+        "price": 800.00
+    },
+    {
+        "title": "Sensori di parcheggio",
+        "description": "Sistema di sensori per facilitare le manovre di parcheggio.",
+        "price": 300.00
+    },
+    {
+        "title": "Telecamera posteriore",
+        "description": "Telecamera per la retromarcia con visualizzazione sul display del cruscotto.",
+        "price": 250.00
+    },
+    {
+        "title": "Climatizzatore automatico",
+        "description": "Sistema di climatizzazione automatico a due zone per il massimo comfort.",
+        "price": 600.00
+    },
+    {
+        "title": "Interni in pelle",
+        "description": "Rivestimenti in pelle per sedili e interni dell'auto per un tocco di lusso.",
+        "price": 1500.00
+    },
+    {
+        "title": "Cruise control adattivo",
+        "description": "Sistema di controllo della velocità di crociera con mantenimento automatico della distanza di sicurezza.",
+        "price": 700.00
+    },
+    {
+        "title": "Fari a LED",
+        "description": "Fari anteriori e posteriori a LED per una migliore visibilità e un look moderno.",
+        "price": 400.00
+    },
+    {
+        "title": "Sistema di monitoraggio angoli ciechi",
+        "description": "Sistema di assistenza alla guida che avvisa della presenza di veicoli negli angoli ciechi.",
+        "price": 500.00
+    },
+    {
+        "title": "Caricatore wireless",
+        "description": "Caricatore wireless integrato per ricaricare i dispositivi compatibili senza fili.",
+        "price": 150.00
+    },
+    {
+        "title": "Barre portatutto",
+        "description": "Barre portatutto sul tetto per il trasporto di attrezzature sportive e bagagli.",
+        "price": 250.00
+    },
+    {
+        "title": "Sistema di infotainment",
+        "description": "Schermo touchscreen con navigazione, audio, e connettività smartphone.",
+        "price": 1000.00
+    },
+    {
+        "title": "Volante riscaldato",
+        "description": "Volante con funzione di riscaldamento per un maggiore comfort in inverno.",
+        "price": 200.00
+    },
+    {
+        "title": "Specchietti retrovisori elettrici",
+        "description": "Specchietti retrovisori regolabili elettronicamente e riscaldati.",
+        "price": 150.00
+    },
+    {
+        "title": "Vetri oscurati",
+        "description": "Vetri posteriori oscurati per maggiore privacy e protezione dal sole.",
+        "price": 300.00
+    },
+    {
+        "title": "Sistema di frenata d'emergenza",
+        "description": "Sistema di assistenza alla frenata d'emergenza per maggiore sicurezza.",
+        "price": 600.00
+    },
+    {
+        "title": "Tappetini premium",
+        "description": "Set di tappetini in materiale premium per un tocco di eleganza agli interni.",
+        "price": 100.00
+    }
+]

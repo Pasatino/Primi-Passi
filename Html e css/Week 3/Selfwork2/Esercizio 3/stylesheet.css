@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(187deg, rgba(2,0,36,1) 0%, rgba(121,9,79,1) 35%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.loginBox{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: rgba(255, 255, 255, 0.36);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    height: 60vh;
+    width: 40vh;
+    display: flex;
+    margin-top: 100px;
+    border-radius: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content:space-evenly
+}
+
+div form{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.button{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: rgba(255, 255, 255, 0.36);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 16px;
+    padding: 12px;
+    margin: 12px;
+    
+}
+.input{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: rgba(255, 255, 255, 0.432);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 16px;
+    padding: 12px;
+    margin: 12px;
+}
+.titolo{
+    color: antiquewhite;
+}

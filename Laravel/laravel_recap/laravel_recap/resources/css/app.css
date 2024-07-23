@@ -1,0 +1,16 @@
+@import 'bootstrap';
+
+.bodyBackground {
+    background: rgb(158,161,157);
+    background: linear-gradient(90deg, rgba(158,161,157,1) 0%, rgba(115,131,144,1) 48%);
+}
+
+
+
+.plus-jakarta-sans {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  color: aliceblue;
+}

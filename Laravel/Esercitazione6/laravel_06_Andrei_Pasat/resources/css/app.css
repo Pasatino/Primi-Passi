@@ -1,0 +1,25 @@
+@import 'bootstrap';
+@import 'bootstrap-icons';
+
+.header-img{
+    border-radius: 25px;
+};
+
+.card-img-top {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+}
+
+.card{
+    height: 400px;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 50%;
+}
+
+body {
+    background-color: antiquewhite;
+}

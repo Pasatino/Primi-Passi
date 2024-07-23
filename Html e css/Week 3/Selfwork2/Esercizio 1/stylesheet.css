@@ -1,0 +1,14 @@
+* {
+margin: 0px;
+}
+.navBar {
+    border: solid; color: red; border-style: ridge;
+    padding: 50px 100px 50px 100px;
+    margin: 10px;
+    display: flex;
+    gap: 20px;
+    
+
+
+
+}
